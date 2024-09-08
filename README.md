@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS/Tailwind CSS, JS, React and Next.js**
 
-- 📫 How to reach me **fenpadorje7@gmail.com**
+- 📫 How to reach me **amritlama.business@gmail.com**
 
-- ⚡ Fun fact **You still search how to center a div😁.**
+- ⚡ Fun fact **Ai is gonna replace us 😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
