@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrit</h1>
 <h3 align="center">A young passionate and curious frontend developer from Nepal.😎</h3>
 
-- 🔭 I’m currently working on **Vugol.Me**
+- 🔭 I’m currently working on **OSON** (Outright Solution Nepal Pvt Ltd)
 
 - 🌱 I’m currently learning **Backend/Node.js, Typescript**
 
